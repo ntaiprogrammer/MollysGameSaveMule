@@ -1,6 +1,6 @@
 # Introducing Molly's Game-Save Mule for Deep Rock Galactic #
 
-### Automatically sync your latest game progress between Steam and PC Gamepass versions ###
+### The easiest way to transfer your latest game progress between Steam and PC Gamepass versions ###
 
 ### ***Features:*** ###
 
