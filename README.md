@@ -40,6 +40,7 @@ A program that only considers most recent file write will overwrite your 200-hou
 ### So we punched the guy in R&D until he agreed to come up with a solution.
 
 
+
 ![screenshot_highestrated](https://github.com/ntaiprogrammer/Mollys_GameSave_Mule/blob/main/mollys_gamesave_mule_help_screenshot.png?raw=true)
 
 ## How to Use
