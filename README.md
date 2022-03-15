@@ -24,8 +24,8 @@ I'm glad you asked.
 
 Firstly, *Molly's Game-Save Mule* is clearly the prettiest.
 
-Secondly, other programs might determine the file with the most progress, but they only consider
-the most recent file write.
+Secondly, other programs might determine the file with the most progress, but they only consider the most recent file write.
+This can be a problem!
 ### Picture this... ###
 Imagine you have 200 hours of progress on Steam and you want to play with friends on Xbox.
 
