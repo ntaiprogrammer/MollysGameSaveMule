@@ -37,7 +37,7 @@ But now, your empty xbox save file now has the most recent changes.
 
 A program that only considers most recent file write will overwrite your 200-hour Steam save with your empty Xbox save!
 
-### So we punched the guy in R&D until he agreed to come up with a solution. #
+### So we punched the guy in R&D until he agreed to come up with a solution.
 ![screenshot_highestrated](https://github.com/ntaiprogrammer/Mollys_GameSave_Mule/blob/main/mollys_gamesave_mule_help_screenshot.png?raw=true)
 
 ## How to Use
