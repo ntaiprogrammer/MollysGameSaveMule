@@ -53,5 +53,5 @@ or
 Xbox to Steam.
 Click Yes and your progress will be automatically transferred!
 
-## Please let me know if I f!@%ed anything up.
+## Please let me know if I f@#!ed anything up.
 # Enjoy!
