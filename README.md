@@ -23,6 +23,7 @@
 
 - #### NO re-naming, NO dragging and dropping, and NO searching for file paths! ####
 
+
 ![screenshot_highestrated](https://github.com/ntaiprogrammer/Mollys_GameSave_Mule/blob/main/mollys_gamesave_mule_help_screenshot.png?raw=true)
 
 ## How to Use ##
