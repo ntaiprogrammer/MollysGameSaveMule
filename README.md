@@ -19,5 +19,5 @@
 ### Interface ###
 ![screenshot_searchresult](https://github.com/ntaiprogrammer/Mollys_GameSave_Mule/blob/main/mollys_gamesave_mule_screenshot.png?raw=true)
 
-### Info Screen ###
+### Info Pop-up ###
 ![screenshot_highestrated](https://github.com/ntaiprogrammer/Mollys_GameSave_Mule/blob/main/mollys_gamesave_mule_help_screenshot.png?raw=true)
