@@ -23,6 +23,8 @@
 
 - #### NO re-naming, NO dragging and dropping, and NO searching for file paths! ####
 
+![screenshot_highestrated](https://github.com/ntaiprogrammer/Mollys_GameSave_Mule/blob/main/mollys_gamesave_mule_help_screenshot.png?raw=true)
+
 ## How to Use ##
 ### Auto-Sync ###
 Click "Sync Most Progress" to let Molly figure out which file ahs the most progress.
@@ -41,4 +43,4 @@ Click Yes and your progress will be automatically transferred!
 
 
 ### Info Pop-Up ###
-![screenshot_highestrated](https://github.com/ntaiprogrammer/Mollys_GameSave_Mule/blob/main/mollys_gamesave_mule_help_screenshot.png?raw=true)
+
