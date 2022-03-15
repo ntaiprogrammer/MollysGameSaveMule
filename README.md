@@ -25,9 +25,19 @@ I'm glad you asked.
 Firstly, *Molly's Game-Save Mule* is clearly the prettiest.
 
 Secondly, other programs might determine the file with the most progress, but they only consider the most recent file write.
+
 This can be a problem!
+
 ### Picture this... ###
 Imagine you have 200 hours of progress on Steam and you want to play with friends on Xbox.
+
+So you install the Gamepass version of DRG and load it up to make sure it works.
+
+But now, your empty xbox save file now has the most recent changes.
+
+A program that only considers most recent file write will replace your 200-hour Steam save with your empty Xbox save!
+
+So we punched the guy in R&D until he agreed to come up with a solution.
 
 ![screenshot_highestrated](https://github.com/ntaiprogrammer/Mollys_GameSave_Mule/blob/main/mollys_gamesave_mule_help_screenshot.png?raw=true)
 
