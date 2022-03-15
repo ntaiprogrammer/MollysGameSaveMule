@@ -8,7 +8,7 @@
 ### NO dragging and dropping
 ### NO renaming files
 ### FULLY AUTOMATIC!
-
+#
 ### ***Features:*** ###
 
 - #### Automatically locates Steam and Xbox save files
@@ -24,7 +24,7 @@ I'm glad you asked.
 
 Firstly, *Molly's Game-Save Mule* is clearly the prettiest.
 
-Secondly, other programs determine the file with the most progress by considering only the most recent file write.
+Secondly, other programs I've seen determine the file with the most progress by considering only the most recent file write.
 
 This can be a problem!
 
@@ -33,9 +33,9 @@ Imagine you have 200 hours of progress on Steam and you want to play with friend
 
 So you install the Gamepass version of DRG and load it up to make sure it works.
 
-But now, your empty xbox save file now has the most recent changes.
+But now, your empty Xbox save file has the most recent changes...
 
-A program that only considers most recent file write will overwrite your 200-hour Steam save with your empty Xbox save!
+A program that only considers most recent file write would overwrite your 200-hour Steam save with your EMPTY Xbox save!
 
 ### So we punched the guy in R&D until he agreed to come up with a solution.
 ### Prioritize file size!
@@ -53,4 +53,5 @@ or
 Xbox to Steam.
 Click Yes and your progress will be automatically transferred!
 
+## Please let me know if I f*@%ed anything up.
 # Enjoy!
