@@ -14,6 +14,9 @@
 
 - #### Snazzy DRG-inspired user interface ####
 
+### How to Use ###
+asdg
+
 ## Screenshots ##
 
 ### Interface ###
