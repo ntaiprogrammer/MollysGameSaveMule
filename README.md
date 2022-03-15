@@ -8,7 +8,7 @@
 ### NO dragging and dropping
 ### NO renaming files
 ### FULLY AUTOMATIC!
-#
+
 ### ***Features:*** ###
 
 - #### Automatically locates Steam and Xbox save files
@@ -43,7 +43,7 @@ A program that only considers most recent file write will overwrite your 200-hou
 
 ## How to Use
 ### Auto-Sync
-Click "Sync Most Progress" to let Molly figure out which file ahs the most progress.
+Click "Sync Most Progress" to let Molly figure out which file has the most progress.
 You'll see a message detailing which file (Steam or Xbox) has been chosen and why.
 Click Yes and your progress will be automatically transferred to the other platform!
 
