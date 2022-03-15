@@ -19,10 +19,9 @@
 - ### Instant shortcuts to your save files and backups ###
 - ### Snazzy DRG-inspired user interface ###
 #
-![screenshot_highestrated](https://github.com/ntaiprogrammer/Mollys_GameSave_Mule/blob/main/mollys_gamesave_mule_help_screenshot.png?raw=true)
-
-### ***So how is this different from all the other DRG save transfer programs?*** ###
+## ***So how is this different from all the other DRG save transfer programs?*** ##
 sdfhsdf
+![screenshot_highestrated](https://github.com/ntaiprogrammer/Mollys_GameSave_Mule/blob/main/mollys_gamesave_mule_help_screenshot.png?raw=true)
 
 ## How to Use ##
 ### Auto-Sync ###
