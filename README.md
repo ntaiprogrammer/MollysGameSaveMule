@@ -4,9 +4,9 @@
 
 ### ***Features:*** ###
 
-#### -- Automatically detects save file with the most progress based on last file write AND file size ####
+- Automatically detects save file with the most progress based on last file write AND file size
 
-#### - Automatic backups created before transfers ####
+- Automatic backups created before transfers ####
 
 - Undo transfers with Restore From Backup feature
 
