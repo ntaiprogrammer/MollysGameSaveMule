@@ -1,5 +1,4 @@
 # Molly's Game-Save Mule for Deep Rock Galactic #
-
 ### The easiest way to transfer your latest game progress between Steam and PC Gamepass versions ###
 
 ### ***Features:*** ###
@@ -15,7 +14,7 @@
 - #### Snazzy DRG-inspired user interface ####
 
 ### How to Use ###
-asdg
+
 
 ## Screenshots ##
 
