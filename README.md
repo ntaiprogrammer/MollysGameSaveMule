@@ -1,6 +1,6 @@
 # Molly's Game-Save Mule for Deep Rock Galactic #
 ## The easiest way to transfer your game progress between Steam and Xbox Gamepass! ##
-### Done in TWO CLICKS ###
+### Done in TWO CLICKS. ###
 ### NO searching for file paths ###
 ### NO dragging and dropping ###
 ### NO renaming files ###
