@@ -12,15 +12,11 @@
 ### ***Features:*** ###
 
 - ### Automatically locates Steam and Xbox save files ###
-
 - ### Automatically detects save file with the ***most progress*** based on last file write AND file size ###
-
 - ### Automatic backups created before transfers ###
-
 - ### Undo transfers with Restore From Backup feature ###
-
 - ### Manually set folder locations ###
-
+- ### Instant shortcuts to your save files and backups ###
 - ### Snazzy DRG-inspired user interface ###
 #
 ![screenshot_highestrated](https://github.com/ntaiprogrammer/Mollys_GameSave_Mule/blob/main/mollys_gamesave_mule_help_screenshot.png?raw=true)
