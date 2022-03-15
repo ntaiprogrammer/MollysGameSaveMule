@@ -6,11 +6,13 @@
 
 -Automatically detects save file with the most progress based on last file write AND file size
 
--Automatic backups creted before transfers
+-Automatic backups created before transfers
 
 -Undo transfers with Restore From Backup feature
 
 -Manually set folder locations
+
+-Snazzy DRG-inspired user interface
 
 ## Screenshots ##
 
