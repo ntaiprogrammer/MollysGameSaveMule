@@ -43,7 +43,7 @@ A program that only considers most recent file write would overwrite your 200-ho
 
 ## How to Use
 ### Auto-Sync
-Click "Sync Most Progress" to let Molly figure out which file has the most progress.
+Click *Sync Most Progress* to let Molly figure out which file has the most progress.
 
 You'll see a message detailing which file (Steam or Xbox) has been chosen and why.
 
