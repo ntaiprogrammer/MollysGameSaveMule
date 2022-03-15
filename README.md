@@ -2,7 +2,6 @@
 ## The easiest way to transfer your game progress between Steam and Xbox Gamepass!
 
 ![screenshot_searchresult](https://github.com/ntaiprogrammer/Mollys_GameSave_Mule/blob/main/mollys_gamesave_mule_screenshot.png?raw=true)
-
 ### Done in TWO CLICKS.
 ### NO searching for file paths
 ### NO copy-pasting
