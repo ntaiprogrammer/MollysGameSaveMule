@@ -20,6 +20,12 @@
 - #### Snazzy DRG-inspired user interface ####
 #
 # ***So how is this different from all the other DRG save transfer programs?*** #
+I'm glad you asked.
+Firstly, its clearly the prettiest.
+Secondly, other programs may determine the file with the most progress, but they only consider
+the most recent file write.
+#### Picture this... ###
+Imagine you have 200 hours of progress on Steam and you want to play with friends on Xbox.
 
 ![screenshot_highestrated](https://github.com/ntaiprogrammer/Mollys_GameSave_Mule/blob/main/mollys_gamesave_mule_help_screenshot.png?raw=true)
 
