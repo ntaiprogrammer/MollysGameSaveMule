@@ -52,3 +52,5 @@ Select Steam to Xbox
 or
 Xbox to Steam.
 Click Yes and your progress will be automatically transferred!
+
+#Enjoy!
