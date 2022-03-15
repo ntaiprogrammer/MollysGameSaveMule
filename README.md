@@ -1,4 +1,4 @@
-# Introducing Molly's Game-Save Mule#
+# Introducing Molly's Game-Save Mule #
 
 ### Automatically sync your latest game progress between Steam and PC Gamepass versions ###
 
