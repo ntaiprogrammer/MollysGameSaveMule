@@ -7,6 +7,7 @@
 ### NO copy-pasting ###
 ### NO dragging and dropping ###
 ### NO renaming files ###
+### Fully Automatic ###
 #
 ### ***Features:*** ###
 
