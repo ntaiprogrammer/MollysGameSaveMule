@@ -53,7 +53,7 @@ Click *Yes* and your progress will be automatically transferred to the other pla
 ### Manual Transfer
 Select *Steam to Xbox* OR *Xbox to Steam*
 
-Click Yes and your progress will be automatically transferred!
+Click *Yes* and your progress will be automatically transferred!
 
 ## Please let me know if I f**ked anything up.
 
