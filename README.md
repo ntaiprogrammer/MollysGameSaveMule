@@ -13,7 +13,7 @@
 
 - #### Snazzy DRG-inspired user interface ####
 
-### How to Use ###
+## How to Use ##
 
 
 ## Screenshots ##
