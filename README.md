@@ -2,7 +2,7 @@
 ### The easiest way to transfer your latest game progress between Steam and PC Gamepass versions ###
 ### NO searching for file paths ###
 ### NO dragging and dropping ###
-### NO renaming files! ###
+### NO renaming files ###
 
 ### ***Features:*** ###
 
