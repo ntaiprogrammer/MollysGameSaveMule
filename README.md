@@ -47,7 +47,7 @@ Click *Sync Most Progress* to let Molly figure out which file has the most progr
 
 You'll see a message detailing which file (Steam or Xbox) has been chosen and why.
 
-Click Yes and your progress will be automatically transferred to the other platform!
+Click *Yes* and your progress will be automatically transferred to the other platform!
 
 ### Manual Transfer
 Select Steam to Xbox
