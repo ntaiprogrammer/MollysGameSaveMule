@@ -20,7 +20,7 @@
 - #### Instant shortcuts to your save files and backups
 - #### Snazzy DRG-inspired user interface
 #
-# ***So how is this different from all the other DRG save transfer programs?***
+# ***So how is this different from the other DRG save transfer programs?***
 I'm glad you asked.
 
 Firstly, *Molly's Game-Save Mule* is clearly the prettiest.
