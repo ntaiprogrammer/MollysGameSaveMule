@@ -50,7 +50,7 @@ You'll see a message detailing which file (Steam or Xbox) has been chosen and wh
 Click *Yes* and your progress will be automatically transferred to the other platform!
 
 ### Manual Transfer
-Select *Steam to Xbox* or *Xbox to Steam*
+Select *Steam to Xbox* OR *Xbox to Steam*
 
 Click Yes and your progress will be automatically transferred!
 
