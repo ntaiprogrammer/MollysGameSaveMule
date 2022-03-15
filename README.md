@@ -24,7 +24,7 @@ I'm glad you asked.
 
 Firstly, *Molly's Game-Save Mule* is clearly the prettiest.
 
-Secondly, other programs might determine the file with the most progress, but they only consider the most recent file write.
+Secondly, other programs determine the file with the most progress by considering only the most recent file write.
 
 This can be a problem!
 
