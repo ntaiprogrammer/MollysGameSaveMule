@@ -2,22 +2,22 @@
 ## The easiest way to transfer your game progress between Steam and Xbox Gamepass! ##
 
 ![screenshot_searchresult](https://github.com/ntaiprogrammer/Mollys_GameSave_Mule/blob/main/mollys_gamesave_mule_screenshot.png?raw=true)
-### Done in TWO CLICKS. ###
-### NO searching for file paths ###
-### NO copy-pasting ###
-### NO dragging and dropping ###
-### NO renaming files ###
-### FULLY AUTOMATIC! ###
+#### Done in TWO CLICKS. ####
+#### NO searching for file paths ####
+#### NO copy-pasting ####
+#### NO dragging and dropping ####
+#### NO renaming files ####
+#### FULLY AUTOMATIC! ####
 #
 ### ***Features:*** ###
 
-- ### Automatically locates Steam and Xbox save files ###
-- ### Automatically detects save file with the ***most progress*** based on last file write AND file size ###
-- ### Automatic backups created before transfers ###
-- ### Undo transfers with Restore From Backup feature ###
-- ### Manually set folder locations ###
-- ### Instant shortcuts to your save files and backups ###
-- ### Snazzy DRG-inspired user interface ###
+- #### Automatically locates Steam and Xbox save files ####
+- #### Automatically detects save file with the ***most progress*** based on last file write AND file size ####
+- #### Automatic backups created before transfers ####
+- #### Undo transfers with Restore From Backup feature ####
+- #### Manually set folder locations ####
+- #### Instant shortcuts to your save files and backups ####
+- #### Snazzy DRG-inspired user interface ####
 #
 ## ***So how is this different from all the other DRG save transfer programs?*** ##
 
