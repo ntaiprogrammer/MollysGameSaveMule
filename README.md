@@ -1,5 +1,5 @@
 # Molly's Game-Save M.U.L.E. for Deep Rock Galactic
-## The easiest way to transfer your game progress between Steam and Xbox Gamepass!
+## The easiest way to sync your game progress between Steam and Xbox Gamepass!
 
 ![screenshot_searchresult](https://github.com/ntaiprogrammer/Mollys_GameSave_Mule/blob/main/mollys_gamesave_mule_screenshot.png?raw=true)
 
