@@ -41,6 +41,7 @@ Extract all files
 Run setup.exe
 
 Program will be found in the start menu or at 
+
 C:\Users\your-username-here\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MollysGameSaveMule
 
 ## How to Use
