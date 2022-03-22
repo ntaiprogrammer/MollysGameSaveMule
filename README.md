@@ -34,7 +34,12 @@ This could potentially cause a file with less progress (if opened most recently)
 ![screenshot_highestrated](https://github.com/ntaiprogrammer/Mollys_GameSave_Mule/blob/main/mollys_gamesave_mule_help_screenshot.png?raw=true)
 
 ## Installation
-Download the zip file named
+Download the zip file named "Molly's Game-Save Mule (Installer).zip"
+
+run setup.exe
+
+Program will be found in the start menu or at C:\Users\your-username-here\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MollysGameSaveMule
+
 ## How to Use
 ### Auto-Sync
 Click *Sync Most Progress* to let Molly figure out which file has the most progress.
