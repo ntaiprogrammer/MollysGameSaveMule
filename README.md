@@ -25,18 +25,9 @@ I'm glad you asked.
 
 Firstly, *Molly's Game-Save Mule* is clearly the prettiest.
 
-Secondly, other programs I've seen determine the file with the most progress by considering only the most recent file write.
+Secondly, other programs I've seen will determine the file with the most progress by considering only the most recent file write.
 
-This can be a problem!
-
-### Picture this...
-Imagine you have 200 hours of progress on Steam and you want to play with friends on Xbox.
-
-So you install the Gamepass version of DRG and load it up to make sure it works.
-
-But now, your empty Xbox save file has the most recent changes...
-
-A program that only considers most recent file write would overwrite your 200-hour Steam save with your EMPTY Xbox save!
+This could potentially cause a file with less progress (if opened most recently) to overwrite a file with more progress.
 
 ### So we punched the guy in R&D until he agreed to come up with a solution.
 ### Prioritize file size!
