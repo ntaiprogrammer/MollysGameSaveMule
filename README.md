@@ -33,6 +33,8 @@ This could potentially cause a file with less progress (if opened most recently)
 ### Prioritize file size!
 ![screenshot_highestrated](https://github.com/ntaiprogrammer/Mollys_GameSave_Mule/blob/main/mollys_gamesave_mule_help_screenshot.png?raw=true)
 
+## Installation
+Download the zip file named
 ## How to Use
 ### Auto-Sync
 Click *Sync Most Progress* to let Molly figure out which file has the most progress.
