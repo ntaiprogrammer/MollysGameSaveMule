@@ -58,7 +58,7 @@ Select *Steam to Xbox* OR *Xbox to Steam*
 
 Click *Yes* and your progress will be automatically transferred!
 
-### What if my game is installed somewhere other than my (C:) Drive?
+### _What if my game is installed somewhere other than my (C:) Drive?_
 Click _Set Folders_, click the Steam or Xbox tab and click the _Choose Save Folder_ option.
 
 Select the folder that contains the relevant save file.
