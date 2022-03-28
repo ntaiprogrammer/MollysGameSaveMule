@@ -40,7 +40,7 @@ Program will be found in the Start Menu or via the desktop shortcut created by t
 
 ### Done!
 
-For the smoothest experience, make sure Deep Rock Galactic is installed on both Steam and Game Pass 
+For the smoothest experience, make sure Deep Rock Galactic is installed on both Steam and Game Pass, 
 and that each version of the game has been launched at least once prior to launching Molly's Game-Save M.U.L.E.
 
 This will ensure that both save files have been created; both must be present to initiate the transfer.
