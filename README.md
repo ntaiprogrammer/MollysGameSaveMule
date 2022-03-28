@@ -34,15 +34,13 @@ This could potentially cause a file with less progress (if opened most recently)
 ![screenshot_highestrated](https://github.com/ntaiprogrammer/Mollys_GameSave_Mule/blob/main/mollys_gamesave_mule_help_screenshot.png?raw=true)
 
 ## Installation
-Download the zip file named "Molly's Game-Save Mule (Installer).zip"
+Download and open the file named "Molly's Game-Save M.U.L.E..msi"
 
-Extract all files
+Program will be found in the Start Menu or via the desktop shortcut created by the installer.
 
-Run setup.exe
+Install location:
 
-Program will be found in the start menu or at 
-
-C:\Users\your-username-here\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MollysGameSaveMule
+"C:\Program Files (x86)\Molly's Game-Save M.U.L.E"
 
 ## How to Use
 ### Auto-Sync
