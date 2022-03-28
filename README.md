@@ -40,10 +40,6 @@ Program will be found in the Start Menu or via the desktop shortcut created by t
 
 ### Done!
 
-Install location: "C:\Program Files (x86)\Molly's Game-Save M.U.L.E"
-
-App data (backups & user settings) location: "C:\Users\your_username_here\AppData\Local\Molly's Game-Save Mule"
-
 ## How to Use
 ### Auto-Sync
 Click *Sync Most Progress* to let Molly figure out which file has the most progress.
