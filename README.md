@@ -23,7 +23,7 @@
 # ***So how is this different from the other DRG save transfer programs?***
 I'm glad you asked.
 
-Firstly, *Molly's Game-Save Mule* is clearly the prettiest.
+Firstly, *Molly's Game-Save M.U.L.E.* is clearly the prettiest.
 
 Secondly, other programs I've seen will determine the file with the most progress by considering only the most recent file write.
 
