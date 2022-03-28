@@ -38,6 +38,8 @@ Download and open the file named "Molly's Game-Save M.U.L.E..msi"
 
 Program will be found in the Start Menu or via the desktop shortcut created by the installer.
 
+### Done!
+
 For the smoothest experience, make sure Deep Rock Galactic is installed on both Steam and Game Pass 
 and that each version of the game has been launched at least once prior to launching Molly's Game-Save M.U.L.E.
 
