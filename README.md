@@ -61,7 +61,7 @@ Click *Yes* and your progress will be automatically transferred!
 ### _What if my game is installed somewhere other than my (C:) Drive?_
 Click _Set Folders_, click the Steam or Xbox tab and click the _Choose Save Folder_ option.
 
-Select the folder that contains the relevant save file.
+Select the folder that contains your save file.
 
 Your settings are saved!
 
