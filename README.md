@@ -16,7 +16,7 @@
 - #### Automatically detects save file with the ***most progress*** based on last file write AND file size
 - #### Automatic backups created before transfers
 - #### Undo transfers with *Restore From Backup* feature
-- #### Manually set folder locations
+- #### Manually set folder locations if needed
 - #### Instant shortcuts to your save files and backups
 - #### Snazzy DRG-inspired user interface
 #
