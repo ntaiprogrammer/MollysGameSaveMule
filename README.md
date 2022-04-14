@@ -65,6 +65,4 @@ Select the folder that contains your save file.
 
 Your settings are saved!
 
-## Please let me know if I f**ked anything up.
-
 # Enjoy!
