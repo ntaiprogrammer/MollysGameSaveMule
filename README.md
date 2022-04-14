@@ -64,5 +64,5 @@ Click _Set Folders_, click the Steam or Xbox tab, and click the _Choose Save Fol
 Select the folder that contains your save file.
 
 Your settings are saved!
-#
+
 # Enjoy!
