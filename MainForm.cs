@@ -645,7 +645,6 @@ namespace MollysGameSaveMule
 
         #region Backups
 
-        //Create backups selected by parameters.
         public void CreateBackups()
         {
             //Create backup folder if not already existing.
