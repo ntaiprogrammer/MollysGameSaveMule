@@ -1103,7 +1103,7 @@ namespace MollysGameSaveMule
             dialog.IsFolderPicker = true;
             if (dialog.ShowDialog() == CommonFileDialogResult.Ok)
             {
-                //Set backup folder to user selection.
+                //Set folder to user selection.
                 folder = dialog.FileName;
 
                 if (backupOrNot == true)
