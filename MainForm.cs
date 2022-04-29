@@ -406,7 +406,7 @@ namespace MollysGameSaveMule
                         && !Path.GetFileName(file).Contains("steam")
                         && !Path.GetFileName(file).Contains("Backup"))
                     {
-                        //If not a backup
+                        //If backup
                         if (folderPath.Equals(backupFolderPath))
                         {
                             xboxFilePathBackup = Path.GetFullPath(file);
