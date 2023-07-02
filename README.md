@@ -34,7 +34,7 @@ This could potentially cause a file with less progress (if opened most recently)
 ![screenshot_highestrated](https://github.com/ntaiprogrammer/Mollys_GameSave_Mule/blob/main/mollys_gamesave_mule_help_screenshot.png?raw=true)
 
 ## Installation
-Download and open the file named "Molly's Game-Save M.U.L.E..msi"
+[Click here](https://github.com/ntaiprogrammer/MollysGameSaveMule/releases/download/v1.0/Molly.s.Game-Save.M.U.L.E.msi) to download the installer.
 
 Program will be found in the Start Menu or via the desktop shortcut created by the installer.
 
