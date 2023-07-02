@@ -58,11 +58,27 @@ Select *Steam to Xbox* OR *Xbox to Steam*
 
 Click *Yes* and your progress will be automatically transferred!
 
+## FAQ
+
 ### _What if the game is installed somewhere other than my (C:) Drive?_
 Click _Set Folders_, click the Steam or Xbox tab, and click the _Choose Save Folder_ option.
 
 Select the folder that contains your save file.
 
 Your settings are saved!
+
+### _Where are my save files located?_
+
+Molly's Game-Save Mule has buttons to immediately open the folder(s) containing your save files and highlight the correct one.
+
+In case there's an issue with your save folders, here are the default save file locations:
+
+#### Steam:
+C:\Program Files (x86)\Steam\steamapps\common\Deep Rock Galactic\FSD\Saved\SaveGames
+
+#### Xbox Game Pass:
+C:\Users\your username here\AppData\Local\Packages\CoffeeStainStudios.DeepRockGalactic_random numbers and letters here\SystemAppData\wgs\long string of random numbers and letters here with an underscore somewhere\another long string of random numbers and letters here
+
+There are two files in this folder; the one that's named with random numbers and letters is the save file.
 
 # Enjoy!
