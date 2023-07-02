@@ -58,6 +58,10 @@ Select *Steam to Xbox* OR *Xbox to Steam*
 
 Click *Yes* and your progress will be automatically transferred!
 
+### Where is the Default Location for Deep Rock Galactics Saves?
+Steam: C:\Program Files (x86)\Steam\steamapps\common\Deep Rock Galactic\FSD\Saved\SaveGames
+Windows Store: C:\Users\(Your username here)\AppData\Local\Packages
+
 ### _What if the game is installed somewhere other than my (C:) Drive?_
 Click _Set Folders_, click the Steam or Xbox tab, and click the _Choose Save Folder_ option.
 
